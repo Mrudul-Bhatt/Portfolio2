@@ -1,2 +1,7 @@
-# Portfolio2
-A portfolio to show my work &amp; describe me
+### Portfolio
+
+A portfolio to show my work & describe me
+
+### Live Website
+
+Go to https://mrudulbhatt.netlify.app
